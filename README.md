@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Salom, men @nabievv114
-Men Java va Spring Boot asosida ishlovchi backend dasturchiman!
+Men Java backend dasturchiman!
 ##
 
 ## GitHub Statistikalarim:
