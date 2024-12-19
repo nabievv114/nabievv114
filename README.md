@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Salom, men @nabievv114
-Men Java backend dasturchiman!
+Java backend dasturchiman!
 ##
 
 ## GitHub Statistikalarim:
